@@ -112,6 +112,8 @@ Your project uses `products_source_1.json`, `products_source_2.json`, and `order
     * If you encounter a foreign key error, manually add the missing product definitions to one of your `products_source_X.json` files. For example, if `orders.csv` mentions `P006`, ensure `P006` is defined in one of the JSON files.
 
 ---
+### Overview
+![performance chart overview](https://github.com/Quantamaster/Ecommerce_Data_Analyzer/blob/main/performance%20overview%20chart.png)
 
 ## ▶ Running the Project Components
 
@@ -155,6 +157,9 @@ This is your interactive "website"!
 4.  Your default web browser should automatically open to `http://localhost:8501` (or a similar address displayed in the terminal).
 
 ---
+###Dashboard
+
+![Dashboard](https://github.com/Quantamaster/Ecommerce_Data_Analyzer/blob/main/Dashboard.png)
 
 ##  Exploring the Dashboard
 
@@ -176,5 +181,6 @@ To stop the project components:
 * You can then close the XAMPP Control Panel.
 
 ---
+
 
 Enjoy exploring your E-commerce Product Data Aggregator & Analyzer!
