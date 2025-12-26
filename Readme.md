@@ -157,7 +157,7 @@ This is your interactive "website"!
 4.  Your default web browser should automatically open to `http://localhost:8501` (or a similar address displayed in the terminal).
 
 ---
-###Dashboard
+### Dashboard
 
 ![Dashboard](https://github.com/Quantamaster/Ecommerce_Data_Analyzer/blob/main/Dashboard.png)
 
@@ -184,3 +184,4 @@ To stop the project components:
 
 
 Enjoy exploring your E-commerce Product Data Aggregator & Analyzer!
+
