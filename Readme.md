@@ -293,11 +293,9 @@ streamlit run app.py
 
 ⭐ If this project helped you learn or build, consider starring the repository!
 
-```
 
----
-Just say the word 👌
-```
+
+
 
 
 
