@@ -2,14 +2,20 @@
 
 ---
 
-
 ## 🛒 E-commerce Product Data Aggregator & Analyzer
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Flask](https://img.shields.io/badge/Flask-API-lightgrey)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![Data%20Pipeline](https://img.shields.io/badge/Data-Pipeline-green)
 
 A **full-stack data engineering & analytics pipeline** that ingests raw e-commerce product and order data, stores it in a **MySQL database**, exposes data through a **Flask REST API**, and visualizes insights using an **interactive Streamlit dashboard**.
 
 This project demonstrates **end-to-end data flow** — from ingestion → storage → API → analytics — using production-style Python tools.
 
 ---
+
 
 ## 📌 Key Capabilities
 
@@ -273,5 +279,6 @@ streamlit run app.py
 ---
 Just say the word 👌
 ```
+
 
 
