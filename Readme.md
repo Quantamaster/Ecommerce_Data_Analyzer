@@ -271,9 +271,7 @@ streamlit run app.py
 ```
 
 ---
-
-
-
 Just say the word 👌
 ```
+
 
