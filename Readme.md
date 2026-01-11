@@ -24,11 +24,13 @@
 - [Database Configuration](#-database-configuration)
 - [Data Integrity Requirements](#-data-integrity-requirement)
 - [Running the Pipeline](#-running-the-pipeline)
-- [Dashboard Preview](#-dashboard-preview)
+- [Dashboard Preview](#-dashboard-insights)
 - [Exploring the Dashboard](#-exploring-the-dashboard)
 - [Stopping Services](#-stopping-services)
 - [Learning Outcomes](#-learning-outcomes)
 ---
+## Overview
+
 A **full-stack data engineering & analytics pipeline** that ingests raw e-commerce product and order data, stores it in a **MySQL database**, exposes data through a **Flask REST API**, and visualizes insights using an **interactive Streamlit dashboard**.
 
 This project demonstrates **end-to-end data flow** — from ingestion → storage → API → analytics — using production-style Python tools.
@@ -292,6 +294,7 @@ streamlit run app.py
 ---
 
 ⭐ If this project helped you learn or build, consider starring the repository!
+
 
 
 
