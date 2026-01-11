@@ -15,7 +15,24 @@ A **full-stack data engineering & analytics pipeline** that ingests raw e-commer
 This project demonstrates **end-to-end data flow** — from ingestion → storage → API → analytics — using production-style Python tools.
 
 ---
+## 📚 Table of Contents
 
+- [Overview](#-overview)
+- [Key Capabilities](#-key-capabilities)
+- [System Architecture](#-system-architecture)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [Prerequisites](#-prerequisites)
+- [Installation & Setup](#-installation--setup)
+- [Database Setup](#-mysql-database-setup)
+- [Database Configuration](#-database-configuration)
+- [Data Integrity Requirements](#-data-integrity-requirement)
+- [Running the Pipeline](#-running-the-pipeline)
+- [Dashboard Preview](#-dashboard-preview)
+- [Exploring the Dashboard](#-exploring-the-dashboard)
+- [Stopping Services](#-stopping-services)
+- [Learning Outcomes](#-learning-outcomes)
+---
 
 ## 📌 Key Capabilities
 
@@ -279,6 +296,7 @@ streamlit run app.py
 ---
 Just say the word 👌
 ```
+
 
 
 
