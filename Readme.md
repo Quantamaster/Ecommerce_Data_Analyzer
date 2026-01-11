@@ -2,8 +2,8 @@
 
 ---
 
-```md
-# 🛒 E-commerce Product Data Aggregator & Analyzer
+
+## 🛒 E-commerce Product Data Aggregator & Analyzer
 
 A **full-stack data engineering & analytics pipeline** that ingests raw e-commerce product and order data, stores it in a **MySQL database**, exposes data through a **Flask REST API**, and visualizes insights using an **interactive Streamlit dashboard**.
 
@@ -276,3 +276,4 @@ streamlit run app.py
 
 Just say the word 👌
 ```
+
